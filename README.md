@@ -352,7 +352,7 @@ Special thanks to the open-source community:
 **Built with ❤️ by Vikas T G**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/18vikastg)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikas-tg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-t-g-09692325a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikastg2000@gmail.com)
 
 **Need help?** [Open an Issue](https://github.com/18vikastg/vscode-wingman-native/issues) | [Join Discussions](https://github.com/18vikastg/vscode-wingman-native/discussions)
